@@ -1,5 +1,5 @@
 {
-  "name": "React Hello World",
-  "description": "A simple and visually appealing 'Hello World' application built with React, TypeScript, and Tailwind CSS, demonstrating best practices for modern web development.",
+  "name": "Vanilla JS Hello World",
+  "description": "A simple and visually appealing 'Hello World' application built with vanilla JavaScript and Tailwind CSS.",
   "requestFramePermissions": []
 }
