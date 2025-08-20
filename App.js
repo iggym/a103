@@ -20,5 +20,10 @@ export function App() {
   p.textContent = 'Welcome to your vanilla JavaScript application.';
   textContainer.appendChild(p);
 
+  const aloha = document.createElement('p');
+  aloha.className = 'mt-8 text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-600';
+  aloha.textContent = 'Aloha';
+  textContainer.appendChild(aloha);
+
   return main;
 };
